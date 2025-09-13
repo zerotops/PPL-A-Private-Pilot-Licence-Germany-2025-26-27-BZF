@@ -9,3 +9,5 @@ I will, of course, try to ensure that everything is correct, but if you notice a
 IMPORTANT !!! = The following information is based on Germany (laws and tests). Some notes might be in German and some in English, so it would be beneficial if you know German.
 
 Status of this project = Still working on it
+
+Good luck on your journey 

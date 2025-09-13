@@ -18,6 +18,9 @@
 | 7500         | "Notfall Code" Flugzeugentführung                         |
 | 7600         | "Notfall Code" Funkausfall                                |
 | 7700         | "Notfall Code" Luftnotfall                                |
+Squawk Codes are Transponder Codes
+
+
 
 # Sources
 https://flugservice-sachsen.de/wissenswertes/q-gruppen/

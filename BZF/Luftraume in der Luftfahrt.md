@@ -1,0 +1,3 @@
+| Luftraume | Höhe | Extra Informationen |
+| --------- | ---- | ------------------- |
+|           |      |                     |

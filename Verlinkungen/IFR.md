@@ -1,0 +1,1 @@
+Definition: IFR: Instrumental Flight Rules oder kurz gesagt bei schlechtem Wetter nach Instrumenten fliegen.

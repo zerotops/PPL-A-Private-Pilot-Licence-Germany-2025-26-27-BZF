@@ -3,12 +3,13 @@
 
 # Tabelle
 
-| Luftraum                    | Höhe                      | Extra Informationen                                                                  |
-| --------------------------- | ------------------------- | ------------------------------------------------------------------------------------ |
-| G-Golf                      | Von 0-2500 Fuß AGL        | Unkontrollierter Luftraum                                                            |
-| E-Echo                      | Von 2500 Fuß AGL- FL(100) | Kontrollierter Luftraum "Freigaben nur für [[IFR]]"                                  |
-| C-Charlie                   | Alles über FL(100)        | Kontrollierter Luftraum "Jeder braucht Freigaben"                                    |
-| Delta Kontrollzone oder CTR | Vom Boden bis ?           | Kontrollierter Luftraum "Jeder braucht Freigaben". Befindet sich um Flugplätze herum |
+| Luftraum                    | Höhe                      | Extra Informationen                                                                                                                         |
+| --------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| G-Golf                      | Von 0-2500 Fuß AGL        | Unkontrollierter Luftraum                                                                                                                   |
+| E-Echo                      | Von 2500 Fuß AGL- FL(100) | Kontrollierter Luftraum "Freigaben nur für [[IFR]]"                                                                                         |
+| C-Charlie                   | Alles über FL(100)        | Kontrollierter Luftraum "Jeder braucht Freigaben"                                                                                           |
+| Delta Kontrollzone oder CTR | Vom Boden bis ?           | Kontrollierter Luftraum "Jeder braucht Freigaben". Befindet sich um Flugplätze herum + Ein und Ausflug über Pflichtmeldepunkte zu erwarten. |
+| "Delta Special VFR"         | Vom Boden bis ?           | Kontrollierter Luftraum "Jeder braucht Freigaben". Befindet sich um Flugplätze herum + Ein und Ausflug über Pflichtmeldepunkte zu erwarten. |
 
 FL100 = Flugfläche 100 (**Sind 10.000 Fuß beim Standard Luftdruck**)
 AGL= Above Ground Level
@@ -25,6 +26,8 @@ Um Flugplätze mit Kontrollzone oder RMZ ist der Luftraum abgesenkt: Auf
 ![[Pasted image 20250914191414.png]]
 
 Auf einer Luftkarte ist der abgesenkte Luftraum von Echo mit einer dicken Blauen Line gekennzeichnet. Unten vom Bild steht dann auch auf wie viel dieser Luftraum abgesenkt wurde (In der Blauen box an der Blauen Line) in diesem Fall 1000ft AGL.
+
+Die Blau gestrichelte Line ist die Kontrollzone D CTR.
 
 ![[Pasted image 20250914191729.png]]
 ![[Pasted image 20250914190825.png]]
